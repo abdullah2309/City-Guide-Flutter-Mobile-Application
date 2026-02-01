@@ -3,7 +3,7 @@ import datetime
 import random
 
 # ✅ Set your local repository path (not GitHub URL)
-repo_path = r"D:\Extra Work\Python Script\Python-Script-"  # Change this to your repo's local path
+repo_path = r"D:\Fourth Semester\E-project\CitiGuideFlutterApplicationgit branch -M main"  # Change this to your repo's local path
 os.chdir(repo_path)  # Navigate to the repo
 
 # ✅ Define the date range for commits
